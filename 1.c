@@ -3,5 +3,6 @@
 
 int main(){
   printf("git 1");
+  printf("git 2");
   return EXIT_SUCCESS;
 }
